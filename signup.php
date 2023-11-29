@@ -106,7 +106,7 @@ include_once("config.php");
         <div class="row margin">
           <div class="input-field col s12">
             <i class="mdi-social-person-outline prefix"></i>
-            <input name="username" id="username" type="text" autofill="false">
+            <input name="username" id="username" type="email" autofill="false">
             <label for="username" class="center-align">Username</label>
           </div>
         </div>
