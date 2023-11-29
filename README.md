@@ -49,10 +49,3 @@ Contributions are welcome! If you have ideas for features or improvements, pleas
 ## License
 
 This billing system is open-source software licensed under the [MIT License](LICENSE).
-
----
-
-**Note:** This README is a template. Make sure to customize it based on the specifics of your billing system and include any additional information relevant to your project.
-```
-
-Feel free to modify the content based on the specific features and details of your billing system.
